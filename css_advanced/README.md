@@ -1,1 +1,0 @@
-The directory we will use to learn about css
