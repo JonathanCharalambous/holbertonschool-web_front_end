@@ -305,7 +305,7 @@ ul.row {
     color: var(--button-color);
     text-decoration: var(--button-text-decoration);
     transition-duration: var(--transition-duration);
-    transition-property: color, var(--background-color);
+    transition-property: color, background-color;
 }
 
 .button:hover {
